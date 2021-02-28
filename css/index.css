@@ -1,0 +1,45 @@
+body{
+    background-color: wheat;
+    font-family: "Comic Sans MS", serif;
+}
+
+#commandBlock{
+    background-color: white;
+    border: none;
+
+    margin: 0 auto;
+    box-shadow: 10px 10px 100px #000;
+
+    width: 70%;
+    height: 100px;
+    margin-bottom: 10%;
+}
+
+#inputBlock{
+    display: inline-flex;
+    padding: 2% ;
+}
+
+input{
+    outline: none;
+}
+
+#task{
+
+    background-color: white;
+    border: none;
+
+    margin: 0 auto;
+
+    margin-top: 2%;
+    box-shadow: 10px 10px 100px #000;
+
+    width: 70%;
+    height: 100px;
+}
+
+#taskName{
+    display: inline-flex;
+    padding: 2%;
+}
+
